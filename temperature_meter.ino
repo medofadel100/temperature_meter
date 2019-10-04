@@ -1,7 +1,4 @@
 /*
- * This code writen by "Ahmed Shelbaya" at 31/3/2016
- * you can follow "Ahmed Shelbaya on Facebook from here
- * www.fb.com/ahmedshelbaya.SET
  *
  * The project is about measureing temperature with DHT11 Temperature sensor
  * and display the result at LCD
